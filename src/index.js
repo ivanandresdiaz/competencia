@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './pages/Home';
+import App from './routes/App';
 
-ReactDOM.render(<Home />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // Explicacion de React Router; nivel 4 Mack
 // Explicacion de Apis; Nivel 1 Cesar
